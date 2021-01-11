@@ -1,0 +1,27 @@
+,Column,RelWeight
+0,How well can team execute their presented plans ?,0.0341
+1,How strong is the team composition in terms of its complementary skills and completeness of critical functions ?,0.0386
+2,How high did you sense was the passion of the founder/founding team ?,0.0385
+3,How high is the clarity and understanding of the team re: different customer personas ?,0.0329
+4,How unique & differentiated is the value proposition ?,0.038
+5,How large is the absolute market opportunity for the venture ?,0.0379
+6,How impressive is the early stage traction and adoption of the product in the market ?,0.0311
+7,How high is the competitive index given direct competition & available alternatives for the proposed offering by the venture ?,0.0417
+8,How high is the strength of revenue projection in the business model ?,0.04
+9,How lucrative does the exit potential for this business appears with either of the possible ways viz: potential trade sales or M&A with big Cos or IPO etc. ?,0.0387
+10,How high is trend momentum for the domain that startup is active in with its offerings ?,0.0399
+11,How relevant do the metrics and milestones of of this business model appear ?,0.0379
+12,How high is the defensibility of the solution from technology or any operating leverage point of view ?,0.039
+13,How high is the business momentum and pipeline of business ?,0.0339
+14,How high are the chances for the business to extend beyond its currently served markets ?,0.041
+15,How high is the competitive advantage for this business ?,0.0373
+16,How high are the chances for the business to extend beyond its currently served geographies ?,0.0358
+17,Founding team,0.0383
+18,Technology,0.0397
+19,Marketing,0.0391
+20,Biz dev,0.0381
+21,Advisors,0.0401
+22,Potential Execution Risks,0.0405
+23,Revenue Risks,0.0362
+24,Competitive Advantage,0.0389
+25,Overall Assessment,0.0526

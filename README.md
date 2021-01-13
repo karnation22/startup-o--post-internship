@@ -1,7 +1,7 @@
 Brief Description:
 
-	*1: Ranges within [2,3,4,5,7,8]
-	*2: Ranges within [1,2]
+	[*1]: Ranges within [2,3,4,5,7,8]
+	[*2]: Ranges within [1,2]
 
 	S[*1]-R[*2]-Score: Borda Score files, by company
 	s[*1]r[*2]a.csv: Average difference between average norm of experts and borda score of company

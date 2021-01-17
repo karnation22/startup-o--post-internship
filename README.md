@@ -9,5 +9,5 @@ Brief Description:
 	s[*1]r[*2]b.csv: Absolute difference and average difference respectively ([1,2]) across r for each season.
 
 	s234578r[*2]c.csv: Average bias for each question by round
-	s[*1]r[*2]d.csv: Relative weight of each question after normalization of bias (sums to 1.0), by season and round..
+	s[*1]r[*2]d.csv: Relative weight of each question after normalization of bias (sums to 1.0).
 
